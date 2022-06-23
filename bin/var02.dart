@@ -1,4 +1,4 @@
-void main (){
-  String x;
-  x = '5noyabr';
+void main () {
+    String x=('5');
+    print ('x');
 }
