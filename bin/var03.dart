@@ -1,6 +1,4 @@
-void main(){
-   String b;
-   b='shohrux';
-   print(b);
-
+void main () {
+    String b=("3");
+    print (b);
 }
