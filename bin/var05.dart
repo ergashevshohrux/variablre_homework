@@ -1,8 +1,6 @@
-void main (){
-  int x;
-  int y;
-  x=10;
-  y=5;
-  print(x); 
-  print(y);
+void main () {
+    int x =4;
+    int y =2;
+    print (x);
+    print (y);
 }
